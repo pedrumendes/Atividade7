@@ -1,0 +1,28 @@
+
+.header {
+    background-color: #f8f9fa;
+    padding: 15px;
+
+    border: 1px solid #2e2e2e;
+}
+
+.main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: rgb(232, 241, 241);
+}
+
+.container {
+    width: 400px;
+    background-color: rgb(214, 227, 243);
+    border: 1px solid #2e2e2e;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f8f9fa;
+}
